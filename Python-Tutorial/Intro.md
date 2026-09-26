@@ -1,4 +1,4 @@
-Here’s a **clean, revision-friendly summary** of your content. I’ve removed unnecessary wording and kept the concepts you actually need to remember.
+GFG
 
 # 🐍 Python Introduction
 
